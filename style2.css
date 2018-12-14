@@ -30,7 +30,15 @@ text-align: center;
 padding-right: ;
 padding-left}
 
-aside {float: left; ;
+section {{float: left;
+ 	font-family: Arial
+font-size: 20px;
+text-align: center;
+padding-right: ;
+padding-left}}
+
+aside {float: left; 
+ 	font-family: Arial;
 text-align: center; ;
 margin-left: : 
 margin-right: 
@@ -39,8 +47,9 @@ padding-bottom: 20px;  ;
 padding-right:  }
 
 div {
-	float: right
-	text-align: center;
+	float: right;
+ 	font-family: Arial;
+ 	text-align: center;
 	word-wrap: ;
   width: ;
   padding-right: ;
