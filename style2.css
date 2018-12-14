@@ -11,13 +11,13 @@ h1 {text-align: center;
 font-size: 40px
 vertical-align: top;
 padding-bottom: 1px
-text-decoration: underline;}
+}
  
- h2 [font-family: Arial
+ h2 {font-family: Arial
 font-size: 12px;
 padding-right: 6px;
 padding-left: 6px
- ]
+ }
 
 div {
   width: 320px;
