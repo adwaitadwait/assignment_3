@@ -20,9 +20,9 @@ padding-right: ;
 padding-left: 
  }
 
- h4 {float: right;
+ h4 {float: left;
  	font-family: Arial
-font-size: 10px;
+font-size: 12px;
 text-align: center;
 padding-right: ;
 padding-left}
