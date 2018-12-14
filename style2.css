@@ -21,10 +21,11 @@ padding-left: 40px
  }
 
 div {
+	float: center
 	text-align: center;
-  width: 320px;
-  padding-right: : 80px;
-  padding-left: 80px;
-	margin: 40px;} 
+  width: ;
+  padding-right: : ;
+  padding-left: ;
+	margin: } 
  
 p {color: #333; font-size: 15px; font-family: Arial; vertical-align: top; padding: 10px;}
